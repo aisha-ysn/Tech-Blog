@@ -3,6 +3,7 @@
 ## Table of Contents 
   - [Overview](#Overview)
   - [User Story](#user-story)
+  - [Usage](#Usage)
   - [Application Features](#app-features)
   - [Contributors](#contributors)
 
@@ -15,6 +16,10 @@ AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
+
+## Usage
+
+![Blog](https://user-images.githubusercontent.com/83360651/130371174-8b689201-ea0f-4e4b-beb9-029a0b348500.gif)
 
 ## App features: 
 
