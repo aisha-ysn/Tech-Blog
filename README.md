@@ -30,6 +30,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
   * Add new post 
   * Delete post 
   * comment on existing
+  * login 
+  * log out
 
 
 ## Contributors 
