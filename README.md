@@ -19,10 +19,10 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Usage
 
-![Blog] https://github.com/aisha-ysn/Tech-Blog/blob/main/assets/images/screenshot%201.JPG
+![Blog]https://github.com/aisha-ysn/Tech-Blog/blob/main/assets/images/screenshot%201.JPG
 
 
-![Blog] https://github.com/aisha-ysn/Tech-Blog/blob/main/assets/images/screenshot%202.JPG
+![Blog]https://github.com/aisha-ysn/Tech-Blog/blob/main/assets/images/screenshot%202.JPG
 
 
 ## App features: 
